@@ -29,7 +29,6 @@ O projeto utiliza um fluxo automatizado onde o usuário envia uma mensagem pelo 
 
 ## 🔄 Fluxo da automação
 
-```text
 Usuário
    ↓
 Telegram
@@ -39,7 +38,7 @@ AI Agent (n8n)
 Vector Store / MySQL
    ↓
 Resposta ao usuário
-```
+
 
 ## 📂 Estrutura do projeto
 
